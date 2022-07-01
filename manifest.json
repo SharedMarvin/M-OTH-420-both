@@ -1,7 +1,6 @@
 {
     "module": "M-OTH-420",
     "project": "both",
-    "agent-image": "epitechcontent/epitest-docker:latest",
     "enable-coding-style": false,
     "enable-coverage": false,
     "build-commands": [],
